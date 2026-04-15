@@ -57,15 +57,15 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnggaTechI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaTechI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&langs_count=8" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=ff6e40&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="700" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnggaTechI&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=ff6e40&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="700" />
 
 </div>
 
@@ -75,9 +75,9 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/REPO_NAME_1)
 &nbsp;&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/REPO_NAME_2)
 
 </div>
 
@@ -87,7 +87,7 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6e40&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnggaTechI&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6e40&area=true&area_color=1f6feb&hide_border=true" width="100%" />
 
 </div>
 
@@ -98,9 +98,9 @@ fun_fact: I debug with print statements and I'm not ashamed
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake.svg" />
 </picture>
 
 > ⚙️ Snake animation requires a GitHub Action. See setup below.
@@ -124,7 +124,7 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AnggaTechI&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -137,7 +137,7 @@ fun_fact: I debug with print statements and I'm not ashamed
 ║  📝 SETUP NOTES                                  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  1. Replace ALL "YOUR_USERNAME" with your         ║
+║  1. Replace ALL "AnggaTechI" with your         ║
 ║     actual GitHub username                        ║
 ║                                                  ║
 ║  2. Replace "REPO_NAME_1" and "REPO_NAME_2"      ║
@@ -169,7 +169,7 @@ fun_fact: I debug with print statements and I'm not ashamed
 ║           - uses: Platane/                         ║
 ║             snk/svg-only@v3                        ║
 ║             with:                                  ║
-║               github_user_login: YOUR_USERNAME     ║
+║               github_user_login: AnggaTechI     ║
 ║               outputs: |                           ║
 ║                 dist/github-snake.svg               ║
 ║                 dist/github-snake-dark.svg          ║

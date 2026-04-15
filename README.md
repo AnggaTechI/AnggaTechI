@@ -92,11 +92,11 @@ fun_fact: I debug with print statements and I'm not ashamed
       <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat-square" />
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/AnggaTechI/REPO_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+      <a href="https://github.com/AnggaTechI/AssistenWA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=AssistenWA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
       </a>
       <br/><br/>
-      <sub>Your next featured project goes here</sub>
+      <sub>Assisten Bot WA</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Repo-Coming%20Soon-8b949e?style=flat-square" />
       <img src="https://img.shields.io/badge/Build-In%20Progress-1f6feb?style=flat-square" />

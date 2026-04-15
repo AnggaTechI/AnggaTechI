@@ -75,7 +75,7 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/REPO_NAME_1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/one-filemanager-php)
 &nbsp;&nbsp;
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/REPO_NAME_2)
 

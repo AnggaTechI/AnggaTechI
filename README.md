@@ -93,22 +93,6 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 ---
 
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AnggaTechI/AnggaTechI/output/github-snake.svg" />
-</picture>
-
-> ⚙️ Snake animation requires a GitHub Action. See setup below.
-
-</div>
-
----
-
 ## 🤝 Connect with me
 
 <div align="center">
@@ -133,51 +117,10 @@ fun_fact: I debug with print statements and I'm not ashamed
 </div>
 
 <!--
-╔══════════════════════════════════════════════════╗
-║  📝 SETUP NOTES                                  ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  1. Replace ALL "AnggaTechI" with your         ║
-║     actual GitHub username                        ║
-║                                                  ║
-║  2. Replace "REPO_NAME_1" and "REPO_NAME_2"      ║
-║     with your best repo names                     ║
-║                                                  ║
-║  3. Update social links (LinkedIn, Portfolio,     ║
-║     Email, Instagram)                             ║
-║                                                  ║
-║  4. Edit the "About me" YAML block               ║
-║                                                  ║
-║  5. Add/remove tech badges as needed              ║
-║     Badge format from shields.io:                 ║
-║     ![Name](https://img.shields.io/badge/        ║
-║     NAME-COLOR?style=for-the-badge&logo=LOGO     ║
-║     &logoColor=white)                             ║
-║                                                  ║
-║  6. SNAKE ANIMATION SETUP:                        ║
-║     Create .github/workflows/snake.yml:           ║
-║                                                  ║
-║     name: Generate Snake                          ║
-║     on:                                           ║
-║       schedule:                                   ║
-║         - cron: "0 0 * * *"                       ║
-║       workflow_dispatch:                           ║
-║     jobs:                                         ║
-║       build:                                      ║
-║         runs-on: ubuntu-latest                    ║
-║         steps:                                    ║
-║           - uses: Platane/                         ║
-║             snk/svg-only@v3                        ║
-║             with:                                  ║
-║               github_user_login: AnggaTechI     ║
-║               outputs: |                           ║
-║                 dist/github-snake.svg               ║
-║                 dist/github-snake-dark.svg          ║
-║                   ?palette=github-dark              ║
-║           - uses: crazy-max/ghaction-github-pages  ║
-║             with:                                   ║
-║               target_branch: output                 ║
-║               build_dir: dist                       ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+  SETUP NOTES:
+  1. Replace "REPO_NAME_1" and "REPO_NAME_2" with your best repo names
+  2. Update social links (LinkedIn, Portfolio, Email, Instagram)
+  3. Edit the "About me" YAML block
+  4. Add/remove tech badges as needed
+     Badge format: ![Name](https://img.shields.io/badge/NAME-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
 -->

@@ -74,9 +74,12 @@ fun_fact: I debug with print statements and I'm not ashamed
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:58a6ff,100:0d1117&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:58a6ff,100:0d1117&height=4&section=header" width="100%" />
   <p><b>Projects I'm proud of</b> ✨</p>
+  <sub>A selection of tools and projects I’ve built with focus on utility, simplicity, and real-world usage.</sub>
 </div>
+
+<br/>
 
 <table align="center">
   <tr>
@@ -85,10 +88,12 @@ fun_fact: I debug with print statements and I'm not ashamed
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=one-filemanager-php&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
       </a>
       <br/><br/>
-      <sub>Lightweight single-file PHP file manager</sub>
+      <b>one-filemanager-php</b>
+      <br/>
+      <sub>Lightweight single-file PHP file manager built for simplicity and portability.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-5.4%2B-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Type-Web%20Tool-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/Category-File%20Manager-1f6feb?style=flat-square" />
       <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat-square" />
     </td>
     <td align="center" width="50%">
@@ -96,17 +101,21 @@ fun_fact: I debug with print statements and I'm not ashamed
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=AssistenWA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
       </a>
       <br/><br/>
-      <sub>Assisten Bot WA</sub>
+      <b>AssistenWA</b>
+      <br/>
+      <sub>WhatsApp assistant bot focused on anti-delete messages and media monitoring.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Repo-Coming%20Soon-8b949e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Build-In%20Progress-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/Node.js-Bot-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Category-WhatsApp%20Assistant-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Anti--Delete-ff6b6b?style=flat-square" />
     </td>
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=3&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=4&section=footer" width="100%" />
 </div>
 
 ---

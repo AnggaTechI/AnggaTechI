@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hi%20there,%20I'm%20[AnggaTechI]%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Security%20Enthusiast&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hi%20there,%20I'm%20AnggaTechI%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Security%20Enthusiast&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
 
 </div>
 
 ## 🧑‍💻 About me
 
 ```yaml
-name: Angga
+name: AnggaTechI
 location: Indonesia 🇮🇩
 current_focus: Building secure & scalable web applications
 learning: Cloud Architecture, DevSecOps

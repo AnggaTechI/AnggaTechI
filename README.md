@@ -71,14 +71,42 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 ---
 
-## 🏆 Featured projects
+## 🏆 Featured Projects
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:58a6ff,100:0d1117&height=3&section=header" width="100%" />
+  <p><b>Projects I'm proud of</b> ✨</p>
+</div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=one-filemanager-php&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/one-filemanager-php)
-&nbsp;&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/AnggaTechI/REPO_NAME_2)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AnggaTechI/one-filemanager-php">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=one-filemanager-php&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+      </a>
+      <br/><br/>
+      <sub>Lightweight single-file PHP file manager</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-5.4%2B-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Type-Web%20Tool-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat-square" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AnggaTechI/REPO_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+      </a>
+      <br/><br/>
+      <sub>Your next featured project goes here</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Repo-Coming%20Soon-8b949e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Build-In%20Progress-1f6feb?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=3&section=footer" width="100%" />
 </div>
 
 ---

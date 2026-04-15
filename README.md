@@ -20,6 +20,14 @@ Building secure web apps, exploring cloud systems, and learning more about DevSe
 ### 🛠 Tech
 <img src="https://skillicons.dev/icons?i=php,laravel,js,python,mysql,docker,linux,nginx,git,bootstrap,tailwind,vue&theme=dark" />
 
+### 🚀 Best Projects
+<a href="https://github.com/AnggaTechI/one-filemanager-php">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=one-filemanager-php&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/AnggaTechI/AssistenWA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=AssistenWA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+
 ### 📊 GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=AnggaTechI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaTechI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />

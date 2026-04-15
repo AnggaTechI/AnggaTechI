@@ -28,6 +28,9 @@ Building secure web apps, exploring cloud systems, and learning more about DevSe
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=AssistenWA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 </a>
 
+### 📈 Contributions
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnggaTechI&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffb000&area=true&hide_border=true" width="100%" />
+
 ### 📊 GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=AnggaTechI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaTechI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />

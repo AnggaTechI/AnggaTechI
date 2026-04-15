@@ -15,7 +15,7 @@ learning: Cloud Architecture, DevSecOps
 fun_fact: I debug with print statements and I'm not ashamed
 ```
 
-- 🔭 Currently working on **[Your Project Name]**
+- 🔭 Currently working on **Web Development & Security Projects**
 - 🌱 Exploring **cybersecurity** and **cloud infrastructure**
 - 💬 Ask me about **PHP, Laravel, JavaScript, Python**
 - ⚡ Open to collaborating on interesting open-source projects
@@ -97,10 +97,10 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_IG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://google.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggacze7@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 </div>
 

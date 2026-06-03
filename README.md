@@ -79,6 +79,7 @@ principle   : Build clean. Ship fast. Stay secure.
 <a href="https://github.com/AnggaTechI/Domain-Grabber-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=Domain-Grabber-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffb000&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/AnggaTechI/AssistenWA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnggaTechI&repo=AssistenWA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffb000&text_color=c9d1d9" />
 </a>
@@ -95,8 +96,7 @@ principle   : Build clean. Ship fast. Stay secure.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnggaTechI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ffb000&text_color=c9d1d9&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaTechI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnggaTechI&theme=github_dark" width="100%" />
 
 </div>
 
@@ -107,6 +107,10 @@ principle   : Build clean. Ship fast. Stay secure.
 ## ⚡ Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnggaTechI&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffb000&area=true&hide_border=true" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=500&lines=Build+clean.;Ship+fast.;Stay+secure." />
 
 <br><br>
 

@@ -133,21 +133,11 @@ principle   : Build clean. Ship fast. Stay secure.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AnggaTechI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnggaTechI&theme=github_dark" width="100%" />
-
 </div>
 
 ---
 
 <div align="center">
-
-## ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnggaTechI&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffb000&area=true&hide_border=true" width="100%" />
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=500&lines=Build+clean.;Ship+fast.;Stay+secure." />
 

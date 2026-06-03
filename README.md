@@ -96,8 +96,4 @@ principle   : Build clean. Ship fast. Stay secure.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=500&lines=Build+clean.;Ship+fast.;Stay+secure." />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58a6ff,50:1f6feb,100:0d1117" width="100%" />
-
 </div>

@@ -74,54 +74,9 @@ principle   : Build clean. Ship fast. Stay secure.
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 📈 Contribution Overview
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Domain Grabber AI</h3>
-
-<p align="center">
-  <a href="https://github.com/AnggaTechI/Domain-Grabber-AI">
-    <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  AI-assisted domain grabbing and automation project.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-58a6ff?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-ffb000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-1f6feb?style=flat-square" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">AssistenWA</h3>
-
-<p align="center">
-  <a href="https://github.com/AnggaTechI/AssistenWA">
-    <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  WhatsApp assistant project for automation and productivity.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ffb000?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bot-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-1f6feb?style=flat-square" />
-</p>
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnggaTechI&theme=github_dark" width="100%" />
 
 </div>
 

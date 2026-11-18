@@ -1,0 +1,42 @@
+name: Hourly Profile Update
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-profile-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'AnggaTechI/AnggaTechI'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out main
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+
+      - name: Update profile timestamp
+        shell: bash
+        env:
+          GIT_AUTHOR_NAME: AnggaTechI
+          GIT_AUTHOR_EMAIL: 276389265+AnggaTechI@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          updated_at="$(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          printf '%s\n' "$updated_at" > LAST_UPDATE
+          git add -- LAST_UPDATE
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: hourly profile update [$updated_at]"
+          git pull --rebase origin main
+          git push origin HEAD:main

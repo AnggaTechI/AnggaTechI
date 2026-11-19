@@ -2,7 +2,8 @@ name: Hourly Profile Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    # Try on the hour, with fallback attempts if GitHub misses a schedule.
+    - cron: '0,20,40 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,6 +33,12 @@ jobs:
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
           updated_at="$(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          # Fallback runs must not create another commit in the same UTC hour.
+          last_update="$(cat LAST_UPDATE 2>/dev/null || true)"
+          if [[ "${last_update:0:13}" == "${updated_at:0:13}" ]]; then
+            echo "This UTC hour already has an update: $last_update"
+            exit 0
+          fi
           printf '%s\n' "$updated_at" > LAST_UPDATE
           git add -- LAST_UPDATE
           if git diff --cached --quiet; then

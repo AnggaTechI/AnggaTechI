@@ -2,8 +2,8 @@ name: Hourly Profile Update
 
 on:
   schedule:
-    # Try on the hour, with fallback attempts if GitHub misses a schedule.
-    - cron: '0,20,40 * * * *'
+    # Attempt every five minutes; the timestamp guard limits commits to one per UTC hour.
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
